@@ -1,0 +1,34 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {portuguese}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {0.1}Resumo}{1}{section.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introdução}{2}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Descrição da Palestra}{3}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Empreendedorismo}{3}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Características de um empreendedor}{4}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Tipos de Empreendedores}{4}{subsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Inovação}{5}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{visa construir o quê?}{5}{section*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Making Health Safer}{5}{section*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Exemplo Prático (Projecto) Fablab}{5}{section*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{reações imediatas}{6}{section*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}fab lab reserva de ideias}{6}{subsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Análise Crítica}{7}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Empreendedorismo}{7}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Inovação}{7}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Conclusão}{8}{chapter.4}%

@@ -1,0 +1,126 @@
+\documentclass[a4paper,10pt]{report}
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm]{geometry}
+
+\usepackage[utf8]{inputenc}
+\usepackage{xspace}
+\usepackage[portuguese]{babel}
+
+% o comando say
+\usepackage{dirtytalk}
+
+%para que o primeiro paragrafo indente
+\usepackage{indentfirst}
+
+%Fontes especias de matemática
+\usepackage{amsfonts}
+
+%hide hilelinks esconde os links de terem bordas feias
+\usepackage[hidelinks]{hyperref}
+% pacote para os headers e footers fixes
+\usepackage{fancyhdr}
+
+%para poder ter os compactitem lists
+\usepackage{paralist}
+
+%ter acesso a imagens
+\usepackage{graphicx}
+\graphicspath{{images/}}
+
+\usepackage{setspace}
+\usepackage{afterpage}
+% CORES
+
+%tratar das cores
+\usepackage{xcolor}
+\usepackage{pagecolor,lipsum}% http://ctan.org/pkg/{pagecolor,lipsum}
+
+% definição de uma cor
+% \definecolor{name}{model}{color-spec}
+\definecolor{aquamarine}{rgb}{0, 181, 190}
+
+
+
+
+% meter o fundo em pretos e os caracters em branco
+% \pagecolor{black}
+% \color{white}
+% \newcommand{\linkcolor}{aquamarine}
+%link color for white mode
+\newcommand{\linkcolor}{blue}
+
+
+
+
+\usepackage{xcolor}
+\usepackage{todonotes}
+% \usepackage{biblatex}
+% \addbibresource{referencias.bib}
+
+%MACROS
+\newcommand{\lk}[2]{\href{#1}{\textcolor{\linkcolor}{#2}}}
+\newcommand{\chapterf}[1]{\chapter{#1}\thispagestyle{fancy}}
+
+
+% Informações do autor
+\newcommand{\myauthor}{João Pedro Neves Gonçalves}
+\newcommand{\mynumerodealuno}{2018014306}
+
+%valores da palestra
+\newcommand{\palestratitulo} {O Colégio de Engenharia Informática:\\
+                                oportunidades, domínios de intervenção e competências}
+\newcommand{\palestraautor} {Isabel Pedrosa \& Jorge Sá Silva}
+\newcommand{\palestradata} {7 de Abril de 2021}
+\newcommand{\palestranumero} {4}
+
+
+% set dos headers e footers
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\mytitle{}}
+\rhead {\thechapter}
+\rfoot{\thepage}
+
+
+%set do espaçamento entre linhas
+\setstretch{1.25}
+%set indentação
+\setlength\parindent{0.75cm}
+
+%set font family to arial
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\newcommand \mytitle {Relatório da Palestra nº \palestranumero}
+
+\title{\mytitle}
+
+\author{\myauthor}
+
+\newcommand\myemptypage{
+    \newpage
+    \null
+    \thispagestyle{empty}
+    % \addtocounter{page}{-1}
+    \newpage
+    }
+
+
+\begin{document}
+
+\input{subpartes/titulo.tex}
+
+\myemptypage{}
+
+\tableofcontents{}
+\thispagestyle{empty}
+
+\newpage
+\myemptypage{}
+\newpage
+
+\input{subpartes/resumo.tex}
+\input{subpartes/corpo.tex}
+\input{subpartes/conclusao.tex}
+
+
+\end{document}

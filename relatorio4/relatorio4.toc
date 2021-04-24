@@ -1,0 +1,21 @@
+\babel@toc {portuguese}{}
+\contentsline {section}{\numberline {0.1}Resumo}{1}{section.0.1}%
+\contentsline {chapter}{\numberline {1}Introdução}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Descrição da Palestra}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Apresentação}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Historia}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}O que fazem}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}A Organização}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Colégios}{6}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Membros}{7}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Respondendo as questões iniciais}{7}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Processo de admissão e qualificação}{7}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Níveis de qualificação}{7}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Prestigio/Benefícios}{7}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Regalias para os membros}{8}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Colégio de Informática}{8}{section.2.12}%
+\contentsline {subsection}{\numberline {2.12.1}Atos de engenharia Informática}{8}{subsection.2.12.1}%
+\contentsline {section}{\numberline {2.13}Engenheiros pelo mundo}{8}{section.2.13}%
+\contentsline {chapter}{\numberline {3}Análise Crítica}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Apresentação}{9}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Conclusão}{11}{chapter.4}%
